@@ -2,7 +2,7 @@
 
 const nextConfig = {
     output: "export",
-    basePath: "/reaprev",
+    //basePath: "/reaprev",
     images: {
         unoptimized: true,
     },
